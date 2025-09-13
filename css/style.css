@@ -319,8 +319,7 @@ header{
 }
 
 /*===== intro ====*/
-.intro{
-    height: 100vh;
+body{
     background: url("../images/intro-bg.jpg") no-repeat fixed top center/ cover;
 }
 
